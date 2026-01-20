@@ -1,16 +1,16 @@
-# 🚂 RENFE Cercanías – Mapa en Tiempo Real
+# RENFE Cercanías – Mapa en Tiempo Real
 
 Visualiza todos los trenes de RENFE Cercanías en España en tiempo real sobre un mapa interactivo.
 
-## ✨ Características
+## Características
 
-- 🗺️ Mapa interactivo con Leaflet
-- 🔄 Actualización automática cada 30 segundos
-- 🔍 Búsqueda y filtro por línea
-- 📍 Información detallada de cada tren (tripId, stopId, coordenadas)
-- 🎯 Clustering automático de marcadores
+- Mapa interactivo con Leaflet
+- Actualización automática cada 30 segundos
+- Búsqueda y filtro por línea
+- Información detallada de cada tren (tripId, stopId, coordenadas)
+- Clustering automático de marcadores
 
-## 🚀 Cómo ejecutar
+## Cómo ejecutar
 
 ### Requisitos
 - Python 3.8+
